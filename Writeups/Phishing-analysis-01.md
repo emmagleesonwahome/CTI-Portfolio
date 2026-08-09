@@ -281,14 +281,15 @@ or ransomware deployment.
 
    ---
 
-   | Case | Sample | Technique |
-|---|---|---|
-| 1 | PayPal receipt | T1566.002 – Spearphishing Link |
-| 2 | Package tracking | T1566.002 – Spearphishing Link |
-| 3 | Document download | T1566.002 – Spearphishing Link |
-| 4 | Netflix billing | T1566.001 – Spearphishing Attachment |
-| 5 | Apple purchase | T1566.001 – Spearphishing Attachment |
-| 6 | DHL shipment | T1566.001 – Spearphishing Attachment; T1204.002 – User Execution: Malicious File |
+<table>
+<tr><th>Case</th><th>Sample</th><th>Technique</th></tr>
+<tr><td>1</td><td>PayPal receipt</td><td>T1566.002 – Spearphishing Link</td></tr>
+<tr><td>2</td><td>Package tracking</td><td>T1566.002 – Spearphishing Link</td></tr>
+<tr><td>3</td><td>Document download</td><td>T1566.002 – Spearphishing Link</td></tr>
+<tr><td>4</td><td>Netflix billing</td><td>T1566.001 – Spearphishing Attachment</td></tr>
+<tr><td>5</td><td>Apple purchase</td><td>T1566.001 – Spearphishing Attachment</td></tr>
+<tr><td>6</td><td>DHL shipment</td><td>T1566.001 – Spearphishing Attachment; T1204.002 – User Execution: Malicious File</td></tr>
+</table>
 
 ---
 
