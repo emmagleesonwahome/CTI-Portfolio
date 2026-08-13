@@ -3,3 +3,4 @@
 - [Wireshark Fundamentals — Analysis Report](Writeups/Wireshark-fundamentals.md)
 - [Threat Intelligence Tools — Analysis Report](Writeups/Threat-intelligence-tools.md)
 - [Phishing Response Playbook](Playbooks/Phishing-response-playbook.md)
+- [OSINT Investigation — OhSINT](Writeups/OhSINT-investigation.md)
